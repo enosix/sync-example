@@ -116,7 +116,7 @@
     </values>
     <values>
         <field>valence__SourceNamedCredentialName__c</field>
-        <value xsi:type="xsd:string">SAP</value>
+        <value xsi:type="xsd:string">enosix_Sync_Example_SAP</value>
     </values>
     <values>
         <field>valence__SyncEventRetentionDuration__c</field>
