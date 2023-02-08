@@ -10,13 +10,13 @@ NOTE: Make sure you are in __sync-training__ directory
 
 
 ## To do it manually follow these steps
-### step 1 create scratch org:
+### Step 1 - Create a Scratch Org:
 
 ```
 sfdx force:org:create --definitionfile ./../config/project-scratch-def.json --setdefaultusername --setalias sync-training --durationdays 30
 ```
 
-### step 2 install valence & sync app packages:
+### Step 2 - Install Valence & Sync App Packages:
 
 ```
 sfdx force:package:install --package valence@2.0.1 --wait 30 --publishwait 30
@@ -27,7 +27,7 @@ In order to verify that your packages are installed correctly, and to view their
 
 ![Installed Packages](docs/images/installed_packages.png)
 
-### step 4 deploy custom metada with configured links and named credential:
+### Step 3 - Deploy Custom Metadata with Configured Links and Named Credential:
 
 ```
 sfdx force:source:deploy --sourcepath "./src/unmanaged"
@@ -52,7 +52,7 @@ Adding a named credential can also be done manually.
 5. Click Save.
 
 
-### step 5 grant permission to user:
+### Step 4 - Grant Permission to User:
 
 Permission sets can be added to a user's profile either by command line or manually using the Salesforce Org UI.
 
