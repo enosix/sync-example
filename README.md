@@ -1,6 +1,6 @@
 # Installing the enosix Sync training links
 
-## Step 1 - Ensurance enosix Sync for Salesforce is installed
+## Step 1 - Ensure enosix Sync for Salesforce is installed
 Your Salesforce org will need to have the [latest release of enosix Sync for Salesforce installed](https://releases.enosix.io/tag/sync).
 ![Installed Packages](docs/images/installed_packages.png)
 
