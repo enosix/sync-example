@@ -84,11 +84,6 @@ sfdx force:user:permset:assign --permsetname Valence_User
 
 <br>
 
-## After completing one of the ways above, you need to customize SAP named credential
-### To do it in created scratch org 
-### Go to Setup, then search for "Named Credentials" in Quick Find
-### In existing 'SAP' named credential edit url, username and password to your server credentials.
-
 ## Installing
 
 Click this button to install the Filter into your org.
