@@ -5,7 +5,7 @@
       "default": true
     }
   ],
-  "name": "sync-training",
+  "name": "sync-example",
   "namespace": "",
   "sfdcLoginUrl": "https://login.salesforce.com",
   "sourceApiVersion": "56.0"
