@@ -9,7 +9,7 @@
 ### Step 1 - Install the sample syncs
 
 Click this button to install the `enosix Customer Sync`, `enosix Material Sync`, and `enosix Sync Example SAP` named credential into your org.  
-<a href="https://githubsfdeploy.herokuapp.com?owner=enosix&repo=sync-training&ref=main">
+<a href="https://githubsfdeploy.herokuapp.com?owner=enosix&repo=sync-example&ref=main">
   <img alt="Deploy to Salesforce"
        src="https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/deploy.png">
 </a>
