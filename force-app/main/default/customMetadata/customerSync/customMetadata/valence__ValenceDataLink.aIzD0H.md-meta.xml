@@ -100,7 +100,7 @@
     </values>
     <values>
         <field>valence__SourceAdapterConfig__c</field>
-        <value xsi:type="xsd:string">{&quot;syncDateFromField&quot;:&quot;DATE_FROM&quot;,&quot;syncInitialLoadField&quot;:&quot;X_INITIALLOAD&quot;,&quot;callout&quot;:&quot;CalloutLogging&quot;}</value>
+        <value xsi:type="xsd:string">{&quot;syncDateFromField&quot;:&quot;DATE_FROM&quot;,&quot;syncInitialLoadField&quot;:&quot;X_INITIALLOAD&quot;}</value>
     </values>
     <values>
         <field>valence__SourceAdapter__c</field>
