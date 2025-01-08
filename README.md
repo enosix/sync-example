@@ -1,7 +1,7 @@
 # Installing the enosix Sync for Salesforce example links
 
 ### Pre-req - Ensure enosix Sync for Salesforce is installed and configured
-- Your Salesforce org will need to have the [latest release of enosix Sync for Salesforce installed](https://releases.enosix.io/tag/sync).
+- Your Salesforce org will need to have the [latest release of enosix Sync for Salesforce installed](https://releases.enosix.io/release/tags/sync).
 ![Installed Packages](docs/images/installed_packages.png)  
 - Your user has been granted the `Valence_User` permission set
 ![Valence User](docs/images/assign_permissionset.png)
